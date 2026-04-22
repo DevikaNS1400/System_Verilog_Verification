@@ -1,0 +1,46 @@
+run -all
+# ---------Generator class signal--------
+# Time=0 rst=0,d=1,q=0
+# ---------driver class signals--------
+# Time=0 rst=0,d=1,q=0
+# ---------Monitor class signal--------
+# Time=5 rst=0,d=1,q=0
+# ---------Score board signals--------
+# Time=5 rst=0,d=1,q=0
+# Pass
+# ---------Generator class signal--------
+# Time=5 rst=0,d=0,q=0
+# ---------driver class signals--------
+# Time=5 rst=0,d=0,q=0
+# ---------Monitor class signal--------
+# Time=15 rst=1,d=0,q=0
+# ---------Score board signals--------
+# Time=15 rst=1,d=0,q=0
+# Pass
+# ---------Generator class signal--------
+# Time=15 rst=0,d=1,q=0
+# ---------driver class signals--------
+# Time=15 rst=0,d=1,q=0
+# ---------Monitor class signal--------
+# Time=25 rst=1,d=1,q=1
+# ---------Score board signals--------
+# Time=25 rst=1,d=1,q=1
+# Pass
+# ---------Generator class signal--------
+# Time=25 rst=0,d=0,q=0
+# ---------driver class signals--------
+# Time=25 rst=0,d=0,q=0
+# ---------Monitor class signal--------
+# Time=35 rst=1,d=0,q=0
+# ---------Score board signals--------
+# Time=35 rst=1,d=0,q=0
+# Pass
+# ---------Generator class signal--------
+# Time=35 rst=0,d=0,q=0
+# ---------driver class signals--------
+# Time=35 rst=0,d=0,q=0
+# ---------Monitor class signal--------
+# Time=45 rst=1,d=0,q=0
+# ---------Score board signals--------
+# Time=45 rst=1,d=0,q=0
+# Pass
