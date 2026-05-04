@@ -1,0 +1,451 @@
+run -all
+# ---------Generator class signal--------
+# Time=0 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=0 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=5 rst=0,up_down=1,count=0
+# ---------Score board signals--------
+# Time=5 rst=0,up_down=1,count=0
+# Counter is in reset
+# ---------Generator class signal--------
+# Time=5 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=5 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=15 rst=1,up_down=0,count=15
+# ---------Score board signals--------
+# Time=15 rst=1,up_down=0,count=15
+# Counting down passed
+# ---------Generator class signal--------
+# Time=15 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=15 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=25 rst=1,up_down=0,count=14
+# ---------Score board signals--------
+# Time=25 rst=1,up_down=0,count=14
+# Counting down passed
+# ---------Generator class signal--------
+# Time=25 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=25 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=35 rst=1,up_down=1,count=15
+# ---------Score board signals--------
+# Time=35 rst=1,up_down=1,count=15
+# Counting up passed
+# ---------Generator class signal--------
+# Time=35 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=35 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=45 rst=1,up_down=0,count=14
+# ---------Score board signals--------
+# Time=45 rst=1,up_down=0,count=14
+# Counting down passed
+# ---------Generator class signal--------
+# Time=45 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=45 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=55 rst=1,up_down=0,count=13
+# ---------Score board signals--------
+# Time=55 rst=1,up_down=0,count=13
+# Counting down passed
+# ---------Generator class signal--------
+# Time=55 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=55 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=65 rst=1,up_down=1,count=14
+# ---------Score board signals--------
+# Time=65 rst=1,up_down=1,count=14
+# Counting up passed
+# ---------Generator class signal--------
+# Time=65 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=65 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=75 rst=1,up_down=0,count=13
+# ---------Score board signals--------
+# Time=75 rst=1,up_down=0,count=13
+# Counting down passed
+# ---------Generator class signal--------
+# Time=75 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=75 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=85 rst=1,up_down=0,count=12
+# ---------Score board signals--------
+# Time=85 rst=1,up_down=0,count=12
+# Counting down passed
+# ---------Generator class signal--------
+# Time=85 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=85 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=95 rst=1,up_down=1,count=13
+# ---------Score board signals--------
+# Time=95 rst=1,up_down=1,count=13
+# Counting up passed
+# ---------Generator class signal--------
+# Time=95 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=95 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=105 rst=1,up_down=0,count=12
+# ---------Score board signals--------
+# Time=105 rst=1,up_down=0,count=12
+# Counting down passed
+# ---------Generator class signal--------
+# Time=105 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=105 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=115 rst=1,up_down=1,count=13
+# ---------Score board signals--------
+# Time=115 rst=1,up_down=1,count=13
+# Counting up passed
+# ---------Generator class signal--------
+# Time=115 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=115 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=125 rst=1,up_down=0,count=12
+# ---------Score board signals--------
+# Time=125 rst=1,up_down=0,count=12
+# Counting down passed
+# ---------Generator class signal--------
+# Time=125 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=125 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=135 rst=1,up_down=1,count=13
+# ---------Score board signals--------
+# Time=135 rst=1,up_down=1,count=13
+# Counting up passed
+# ---------Generator class signal--------
+# Time=135 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=135 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=145 rst=1,up_down=1,count=14
+# ---------Score board signals--------
+# Time=145 rst=1,up_down=1,count=14
+# Counting up passed
+# ---------Generator class signal--------
+# Time=145 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=145 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=155 rst=1,up_down=0,count=13
+# ---------Score board signals--------
+# Time=155 rst=1,up_down=0,count=13
+# Counting down passed
+# ---------Generator class signal--------
+# Time=155 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=155 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=165 rst=1,up_down=0,count=12
+# ---------Score board signals--------
+# Time=165 rst=1,up_down=0,count=12
+# Counting down passed
+# ---------Generator class signal--------
+# Time=165 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=165 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=175 rst=1,up_down=0,count=11
+# ---------Score board signals--------
+# Time=175 rst=1,up_down=0,count=11
+# Counting down passed
+# ---------Generator class signal--------
+# Time=175 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=175 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=185 rst=1,up_down=1,count=12
+# ---------Score board signals--------
+# Time=185 rst=1,up_down=1,count=12
+# Counting up passed
+# ---------Generator class signal--------
+# Time=185 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=185 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=195 rst=1,up_down=1,count=13
+# ---------Score board signals--------
+# Time=195 rst=1,up_down=1,count=13
+# Counting up passed
+# ---------Generator class signal--------
+# Time=195 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=195 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=205 rst=1,up_down=1,count=14
+# ---------Score board signals--------
+# Time=205 rst=1,up_down=1,count=14
+# Counting up passed
+# ---------Generator class signal--------
+# Time=205 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=205 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=215 rst=1,up_down=0,count=13
+# ---------Score board signals--------
+# Time=215 rst=1,up_down=0,count=13
+# Counting down passed
+# ---------Generator class signal--------
+# Time=215 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=215 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=225 rst=1,up_down=1,count=14
+# ---------Score board signals--------
+# Time=225 rst=1,up_down=1,count=14
+# Counting up passed
+# ---------Generator class signal--------
+# Time=225 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=225 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=235 rst=1,up_down=1,count=15
+# ---------Score board signals--------
+# Time=235 rst=1,up_down=1,count=15
+# Counting up passed
+# ---------Generator class signal--------
+# Time=235 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=235 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=245 rst=1,up_down=0,count=14
+# ---------Score board signals--------
+# Time=245 rst=1,up_down=0,count=14
+# Counting down passed
+# ---------Generator class signal--------
+# Time=245 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=245 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=255 rst=1,up_down=0,count=13
+# ---------Score board signals--------
+# Time=255 rst=1,up_down=0,count=13
+# Counting down passed
+# ---------Generator class signal--------
+# Time=255 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=255 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=265 rst=1,up_down=0,count=12
+# ---------Score board signals--------
+# Time=265 rst=1,up_down=0,count=12
+# Counting down passed
+# ---------Generator class signal--------
+# Time=265 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=265 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=275 rst=1,up_down=1,count=13
+# ---------Score board signals--------
+# Time=275 rst=1,up_down=1,count=13
+# Counting up passed
+# ---------Generator class signal--------
+# Time=275 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=275 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=285 rst=1,up_down=0,count=12
+# ---------Score board signals--------
+# Time=285 rst=1,up_down=0,count=12
+# Counting down passed
+# ---------Generator class signal--------
+# Time=285 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=285 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=295 rst=1,up_down=0,count=11
+# ---------Score board signals--------
+# Time=295 rst=1,up_down=0,count=11
+# Counting down passed
+# ---------Generator class signal--------
+# Time=295 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=295 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=305 rst=1,up_down=0,count=10
+# ---------Score board signals--------
+# Time=305 rst=1,up_down=0,count=10
+# Counting down passed
+# ---------Generator class signal--------
+# Time=305 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=305 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=315 rst=1,up_down=0,count=9
+# ---------Score board signals--------
+# Time=315 rst=1,up_down=0,count=9
+# Counting down passed
+# ---------Generator class signal--------
+# Time=315 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=315 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=325 rst=1,up_down=1,count=10
+# ---------Score board signals--------
+# Time=325 rst=1,up_down=1,count=10
+# Counting up passed
+# ---------Generator class signal--------
+# Time=325 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=325 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=335 rst=1,up_down=1,count=11
+# ---------Score board signals--------
+# Time=335 rst=1,up_down=1,count=11
+# Counting up passed
+# ---------Generator class signal--------
+# Time=335 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=335 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=345 rst=1,up_down=0,count=10
+# ---------Score board signals--------
+# Time=345 rst=1,up_down=0,count=10
+# Counting down passed
+# ---------Generator class signal--------
+# Time=345 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=345 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=355 rst=1,up_down=0,count=9
+# ---------Score board signals--------
+# Time=355 rst=1,up_down=0,count=9
+# Counting down passed
+# ---------Generator class signal--------
+# Time=355 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=355 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=365 rst=1,up_down=1,count=10
+# ---------Score board signals--------
+# Time=365 rst=1,up_down=1,count=10
+# Counting up passed
+# ---------Generator class signal--------
+# Time=365 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=365 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=375 rst=1,up_down=0,count=9
+# ---------Score board signals--------
+# Time=375 rst=1,up_down=0,count=9
+# Counting down passed
+# ---------Generator class signal--------
+# Time=375 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=375 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=385 rst=1,up_down=0,count=8
+# ---------Score board signals--------
+# Time=385 rst=1,up_down=0,count=8
+# Counting down passed
+# ---------Generator class signal--------
+# Time=385 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=385 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=395 rst=1,up_down=1,count=9
+# ---------Score board signals--------
+# Time=395 rst=1,up_down=1,count=9
+# Counting up passed
+# ---------Generator class signal--------
+# Time=395 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=395 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=405 rst=1,up_down=0,count=8
+# ---------Score board signals--------
+# Time=405 rst=1,up_down=0,count=8
+# Counting down passed
+# ---------Generator class signal--------
+# Time=405 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=405 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=415 rst=1,up_down=1,count=9
+# ---------Score board signals--------
+# Time=415 rst=1,up_down=1,count=9
+# Counting up passed
+# ---------Generator class signal--------
+# Time=415 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=415 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=425 rst=1,up_down=1,count=10
+# ---------Score board signals--------
+# Time=425 rst=1,up_down=1,count=10
+# Counting up passed
+# ---------Generator class signal--------
+# Time=425 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=425 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=435 rst=1,up_down=0,count=9
+# ---------Score board signals--------
+# Time=435 rst=1,up_down=0,count=9
+# Counting down passed
+# ---------Generator class signal--------
+# Time=435 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=435 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=445 rst=1,up_down=1,count=10
+# ---------Score board signals--------
+# Time=445 rst=1,up_down=1,count=10
+# Counting up passed
+# ---------Generator class signal--------
+# Time=445 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=445 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=455 rst=1,up_down=0,count=9
+# ---------Score board signals--------
+# Time=455 rst=1,up_down=0,count=9
+# Counting down passed
+# ---------Generator class signal--------
+# Time=455 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=455 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=465 rst=1,up_down=1,count=10
+# ---------Score board signals--------
+# Time=465 rst=1,up_down=1,count=10
+# Counting up passed
+# ---------Generator class signal--------
+# Time=465 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=465 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=475 rst=1,up_down=1,count=11
+# ---------Score board signals--------
+# Time=475 rst=1,up_down=1,count=11
+# Counting up passed
+# ---------Generator class signal--------
+# Time=475 rst=0,up_down=1,count=0
+# ---------driver class signals--------
+# Time=475 rst=0,up_down=1,count=0
+# ---------Monitor class signal--------
+# Time=485 rst=1,up_down=1,count=12
+# ---------Score board signals--------
+# Time=485 rst=1,up_down=1,count=12
+# Counting up passed
+# ---------Generator class signal--------
+# Time=485 rst=0,up_down=0,count=0
+# ---------driver class signals--------
+# Time=485 rst=0,up_down=0,count=0
+# ---------Monitor class signal--------
+# Time=495 rst=1,up_down=0,count=11
+# ---------Score board signals--------
+# Time=495 rst=1,up_down=0,count=11
+# Counting down passed
