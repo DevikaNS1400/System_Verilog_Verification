@@ -1,0 +1,184 @@
+run -all
+# ---------Generator class signals--------
+# Time=0 rst=0,dout=0,din=187,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=5 rst=0,dout=0,din=187,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=6 rst=0,dout=0,din=187,full=0,empty=1, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=6 empty=1, full=0,dout=0,wr_en=0,rd_en=0
+# Que ='{}
+# ---------Generator class signals--------
+# Time=6 rst=0,dout=0,din=225,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=15 rst=0,dout=0,din=225,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=16 rst=0,dout=0,din=225,full=0,empty=1, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=16 empty=1, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225}
+# ---------Generator class signals--------
+# Time=16 rst=0,dout=0,din=129,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=25 rst=0,dout=0,din=129,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=26 rst=0,dout=0,din=129,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=26 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129}
+# ---------Generator class signals--------
+# Time=26 rst=0,dout=0,din=98,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=35 rst=0,dout=0,din=98,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=36 rst=0,dout=0,din=98,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=36 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129, 98}
+# ---------Generator class signals--------
+# Time=36 rst=0,dout=0,din=29,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=45 rst=0,dout=0,din=29,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=46 rst=0,dout=0,din=29,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=46 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129, 98, 29}
+# ---------Generator class signals--------
+# Time=46 rst=0,dout=0,din=247,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=55 rst=0,dout=0,din=247,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=56 rst=0,dout=0,din=247,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=56 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129, 98, 29, 247}
+# ---------Generator class signals--------
+# Time=56 rst=0,dout=0,din=112,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=65 rst=0,dout=0,din=112,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=66 rst=0,dout=0,din=112,full=0,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=66 empty=0, full=0,dout=0,wr_en=0,rd_en=0
+# Que ='{225, 129, 98, 29, 247}
+# ---------Generator class signals--------
+# Time=66 rst=0,dout=0,din=67,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=75 rst=0,dout=0,din=67,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=76 rst=0,dout=0,din=67,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=76 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67}
+# ---------Generator class signals--------
+# Time=76 rst=0,dout=0,din=120,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=85 rst=0,dout=0,din=120,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=86 rst=0,dout=0,din=120,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=86 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67, 120}
+# ---------Generator class signals--------
+# Time=86 rst=0,dout=0,din=161,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=95 rst=0,dout=0,din=161,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=96 rst=0,dout=0,din=161,full=0,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=96 empty=0, full=0,dout=0,wr_en=0,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67, 120}
+# ---------Generator class signals--------
+# Time=96 rst=0,dout=0,din=132,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=105 rst=0,dout=0,din=132,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=106 rst=0,dout=0,din=132,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=106 empty=0, full=0,dout=0,wr_en=1,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=106 rst=0,dout=0,din=216,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=115 rst=0,dout=0,din=216,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=116 rst=0,dout=0,din=216,full=1,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=116 empty=0, full=1,dout=0,wr_en=0,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=116 rst=0,dout=0,din=37,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=125 rst=0,dout=0,din=37,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=126 rst=0,dout=0,din=37,full=1,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=126 empty=0, full=1,dout=0,wr_en=0,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=126 rst=0,dout=0,din=41,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=135 rst=0,dout=0,din=41,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=136 rst=0,dout=0,din=41,full=1,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=136 empty=0, full=1,dout=0,wr_en=0,rd_en=0
+# Que ='{225, 129, 98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=136 rst=0,dout=0,din=171,full=0,empty=0, wr_en=0,rd_en=1
+# ---------Driver class signals--------
+# Time=145 rst=0,dout=0,din=171,full=0,empty=0, wr_en=0,rd_en=1
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=146 rst=0,dout=0,din=171,full=1,empty=0, wr_en=0,rd_en=1
+# -------Scoreboard signals(previous cycle)-------
+# Time=146 empty=0, full=1,dout=0,wr_en=0,rd_en=1
+# Que ='{129, 98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=146 rst=0,dout=0,din=224,full=0,empty=0, wr_en=0,rd_en=1
+# ---------Driver class signals--------
+# Time=155 rst=0,dout=0,din=224,full=0,empty=0, wr_en=0,rd_en=1
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=156 rst=0,dout=225,din=224,full=0,empty=0, wr_en=0,rd_en=1
+# -------Scoreboard signals(previous cycle)-------
+# Time=156 empty=0, full=0,dout=225,wr_en=0,rd_en=1
+# --Scoreboard PASS,dout=225,expected_data=225--
+# Que ='{98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=156 rst=0,dout=0,din=89,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=165 rst=0,dout=0,din=89,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=166 rst=0,dout=129,din=89,full=0,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=166 empty=0, full=0,dout=129,wr_en=0,rd_en=0
+# --Scoreboard PASS,dout=129,expected_data=129--
+# Que ='{98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=166 rst=0,dout=0,din=22,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Driver class signals--------
+# Time=175 rst=0,dout=0,din=22,full=0,empty=0, wr_en=0,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=176 rst=0,dout=129,din=22,full=0,empty=0, wr_en=0,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=176 empty=0, full=0,dout=129,wr_en=0,rd_en=0
+# Que ='{98, 29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=176 rst=0,dout=0,din=193,full=0,empty=0, wr_en=0,rd_en=1
+# ---------Driver class signals--------
+# Time=185 rst=0,dout=0,din=193,full=0,empty=0, wr_en=0,rd_en=1
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=186 rst=0,dout=129,din=193,full=0,empty=0, wr_en=0,rd_en=1
+# -------Scoreboard signals(previous cycle)-------
+# Time=186 empty=0, full=0,dout=129,wr_en=0,rd_en=1
+# Que ='{29, 247, 67, 120, 132}
+# ---------Generator class signals--------
+# Time=186 rst=0,dout=0,din=5,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Driver class signals--------
+# Time=195 rst=0,dout=0,din=5,full=0,empty=0, wr_en=1,rd_en=0
+# ---------Monitor class signals(dout previous cycle)--------
+# Time=196 rst=0,dout=98,din=5,full=0,empty=0, wr_en=1,rd_en=0
+# -------Scoreboard signals(previous cycle)-------
+# Time=196 empty=0, full=0,dout=98,wr_en=1,rd_en=0
+# --Scoreboard PASS,dout=98,expected_data=98--
+# Que ='{29, 247, 67, 120, 132, 5}
