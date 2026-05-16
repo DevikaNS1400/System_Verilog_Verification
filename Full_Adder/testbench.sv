@@ -11,3 +11,4 @@ module testbench;
     #500;
     $finish;
   end
+endmodule
